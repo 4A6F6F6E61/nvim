@@ -1,2 +1,2 @@
 require("default.remap")
-print("test")
+require("default.set")
